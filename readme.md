@@ -1,8 +1,8 @@
 This is "Leads Tracker" Extension.
 
 Function:
-- Saves the current tab URL.
-- Saves the random URL.
+- Save the current tab URL.
+- Save the random URL by input.
 - Useful for tracking leads on multiple platforms.
 - All the links are saved in LocalStorage and won't get deleted even after closing the browser.
 - Delete all saved URLs. (Double Click)
